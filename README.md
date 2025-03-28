@@ -1,41 +1,47 @@
-<h1 align="center">Hola 👋, soy Íñigo</h1>
-<h3 align="center">Graduado en Ingeniería Industrial Conectada</h3>
+<h1 align="center">Hi 👋, I'm Íñigo</h1>
+<h3 align="center">Connected Industrial Engineering Graduate</h3>
 
 ---
 
-🎓 Soy graduado en Ingeniería Industrial Conectada por la Universidad Francisco de Vitoria.  
-🧠 Apasionado por la programación, la inteligencia artificial y el análisis de datos.  
-💡 Me interesa todo lo relacionado con la innovación tecnológica, el aprendizaje automático y la automatización.  
-📈 Siempre estoy buscando maneras de aplicar la IA y el análisis de datos para resolver problemas reales.  
+🎓 I hold a degree in Connected Industrial Engineering from Universidad Francisco de Vitoria.  
+💡 I'm passionate about programming, artificial intelligence, and data analysis.  
+🧠 I love exploring cutting-edge tech like large language models, automation, and smart data systems.  
+🚀 I'm always looking for innovative ways to apply AI and analytics to real-world challenges.
 
 ---
 
-### 🛠️ Tecnologías que me gustan
+### 🛠️ Tools & Technologies I Enjoy
 
 - Python 🐍
 - Pandas, NumPy, Scikit-Learn 📊
-- Streamlit para crear interfaces interactivas ⚡
-- Git y GitHub para control de versiones 🔧
-- Modelos LLM, IA generativa y multiagentes 🤖
+- Streamlit for building interactive interfaces ⚡
+- Git & GitHub for version control 🔧
+- LLMs, generative AI, and multi-agent architectures 🤖
 
 ---
 
-### 🌱 Actualmente aprendiendo sobre
+### 🌱 Currently Learning About
 
-- Inteligencia Artificial aplicada a la industria
-- Sistemas multiagente con LLMs
-- Visualización de datos e interfaces web ligeras
-
----
-
-
-### ✨ Repositorios destacados
-
-Aquí algunos proyectos en los que he trabajado recientemente:
-
-- 🔬 `multiagent-data-system` — Sistema multiagente con LLMs para consultar datasets con lenguaje natural.
-- 🛠️ Próximamente más...
+- Industrial applications of AI
+- Multi-agent systems with language models
+- Data visualization and lightweight web dashboards
 
 ---
 
-Gracias por visitar mi perfil 😄 
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inigodavidsainzmartin/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inigosnz/)
+
+---
+
+### ✨ Featured Repositories
+
+Some of my recent work:
+
+- 🔬 `multiagent-data-system` — A natural-language-powered query interface for structured datasets using LLM-driven agents.
+- 🛠️More projects coming soon...
+
+---
+
+Thanks for visiting my profile 😄  
