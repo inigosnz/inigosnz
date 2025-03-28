@@ -19,7 +19,8 @@ I'm a tech-oriented engineering graduate with a strong interest in how cutting-e
 🧠 I’m especially drawn to fields like AI and data science, not just for their technical depth but also for their potential to solve complex challenges. I value a hands-on, exploratory approach to learning and constantly seek opportunities to expand my toolkit.
 
 🌍 I speak:
-- Spanish 🇪🇸 (Native)
+- Spanish ![image](https://github.com/user-attachments/assets/16eb578e-b2d5-4593-8e4d-6fe9a1ae85e3)
+ (Native)
 - English 🇬🇧 (C1)
 - German 🇩🇪 (B1)
 
