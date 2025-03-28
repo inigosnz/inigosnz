@@ -19,15 +19,15 @@ I'm a tech-oriented engineering graduate with a strong interest in how cutting-e
 🧠 I’m especially drawn to fields like AI and data science, not just for their technical depth but also for their potential to solve complex challenges. I value a hands-on, exploratory approach to learning and constantly seek opportunities to expand my toolkit.
 
 🌍 I speak:
-- Spanish ![image](https://github.com/user-attachments/assets/16eb578e-b2d5-4593-8e4d-6fe9a1ae85e3)
- (Native)
+- Spanish 🇪🇸 (Native)
 - English 🇬🇧 (C1)
 - German 🇩🇪 (B1)
 
-💻 Programming experience in:
-- Python 🐍
-- Java ☕
-- SQL 📊
+### 💻 Programming Experience
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 
 ---
 
