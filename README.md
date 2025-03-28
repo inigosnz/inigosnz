@@ -1,34 +1,56 @@
 <h1 align="center">Hi 👋, I'm Íñigo</h1>
-<h3 align="center">Connected Industrial Engineering Graduate</h3>
+<h3 align="center">Engineer passionate about AI, Big Data & Emerging Technologies</h3>
 
 ---
 
-🎓 I hold a degree in Connected Industrial Engineering from Universidad Francisco de Vitoria.  
-💡 I'm passionate about programming, artificial intelligence, and data analysis.  
-🧠 I love exploring cutting-edge tech like large language models, automation, and smart data systems.  
-🚀 I'm always looking for innovative ways to apply AI and analytics to real-world challenges.
+I'm a tech-oriented engineering graduate with a strong interest in how cutting-edge technologies can shape the present and future of industry. I enjoy learning by building — whether it's through collaborative university-industry projects or hands-on experimentation with code, tools, and real-world datasets.
 
----
+🚀 My academic background in Connected Industrial Engineering focused on the integration of disruptive technologies such as:
 
-### 🛠️ Tools & Technologies I Enjoy
+- Artificial Intelligence (AI)
+- Big Data & Data Analytics
+- Internet of Things (IoT)
+- Cybersecurity
+- Cloud Computing
+- Digital Twin & Smart Systems
 
+📚 This degree emphasized both theory and practice, combining university-led learning with real-world projects in collaboration with external companies — allowing me to explore how these innovations can be applied in practical, scalable, and meaningful ways.
+
+🧠 I’m especially drawn to fields like AI and data science, not just for their technical depth but also for their potential to solve complex challenges. I value a hands-on, exploratory approach to learning and constantly seek opportunities to expand my toolkit.
+
+🌍 I speak:
+- Spanish 🇪🇸 (Native)
+- English 🇬🇧 (C1)
+- German 🇩🇪 (B1)
+
+💻 Programming experience in:
 - Python 🐍
-- Pandas, NumPy, Scikit-Learn 📊
-- Streamlit for building interactive interfaces ⚡
-- Git & GitHub for version control 🔧
-- LLMs, generative AI, and multi-agent architectures 🤖
+- Java ☕
+- SQL 📊
 
 ---
 
-### 🌱 Currently Learning About
+### 🛠️ Technologies & Topics I Enjoy
 
-- Industrial applications of AI
-- Multi-agent systems with language models
-- Data visualization and lightweight web dashboards
+- Artificial Intelligence & Machine Learning (ML, LLMs)
+- Big Data ecosystems & pipelines
+- Data Analytics & Visualization (dashboards, storytelling)
+- Embedded Systems & Electronics (IoT devices, sensors)
+- Multi-agent systems & generative models
+- Cloud platforms & scalable infrastructure
+
+---
+
+### 🌱 Currently Exploring
+
+- Multi-agent systems powered by LLMs
+- Applications of AI in industrial and data-driven environments
+- Future-oriented data architectures
 
 ---
 
 ### 📫 Contact
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inigodavidsainzmartin/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inigosnz/)
