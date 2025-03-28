@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Íñigo</h1>
+<h3 align="center">Graduado en Ingeniería Industrial Conectada</h3>
 
-<!--
-**inigosnz/inigosnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Soy graduado en Ingeniería Industrial Conectada por la Universidad Francisco de Vitoria.  
+🧠 Apasionado por la programación, la inteligencia artificial y el análisis de datos.  
+💡 Me interesa todo lo relacionado con la innovación tecnológica, el aprendizaje automático y la automatización.  
+📈 Siempre estoy buscando maneras de aplicar la IA y el análisis de datos para resolver problemas reales.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías que me gustan
+
+- Python 🐍
+- Pandas, NumPy, Scikit-Learn 📊
+- Streamlit para crear interfaces interactivas ⚡
+- Git y GitHub para control de versiones 🔧
+- Modelos LLM, IA generativa y multiagentes 🤖
+
+---
+
+### 🌱 Actualmente aprendiendo sobre
+
+- Inteligencia Artificial aplicada a la industria
+- Sistemas multiagente con LLMs
+- Visualización de datos e interfaces web ligeras
+
+---
+
+
+### ✨ Repositorios destacados
+
+Aquí algunos proyectos en los que he trabajado recientemente:
+
+- 🔬 `multiagent-data-system` — Sistema multiagente con LLMs para consultar datasets con lenguaje natural.
+- 🛠️ Próximamente más...
+
+---
+
+Gracias por visitar mi perfil 😄 
