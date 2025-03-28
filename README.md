@@ -24,9 +24,11 @@ I'm a tech-oriented engineering graduate with a strong interest in how cutting-e
 - German 🇩🇪 (B1)
 
 ### 💻 Programming Experience
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![DAX](https://img.shields.io/badge/DAX-204ECF?style=for-the-badge&logo=powerbi&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
+[![Excel Macros](https://img.shields.io/badge/Excel%20Macros-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/en-us/excel)
 
 
 ---
